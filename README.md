@@ -95,7 +95,7 @@ Tech: React.js • JavaScript • CSS • API • LocalStorage • Vite
 
 A personal portfolio website showcasing my skills, projects and development journey.
 
-**Tech:** HTML • CSS • JavaScript • React
+**Tech:** HTML • CSS • JavaScript 
 
 ---
 
