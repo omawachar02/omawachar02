@@ -106,6 +106,8 @@ React.js
    ↓
 Advanced React
    ↓
+Next.js
+   ↓
 Node.js / Flask
    ↓
 SQL & Databases
