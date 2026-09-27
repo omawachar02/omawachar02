@@ -69,11 +69,11 @@ A responsive payment website frontend built with modern web technologies.
 
 **Tech:** React.js • JavaScript • HTML • CSS
 
-### 🌎 Translator Web App
+### 🌎 Music Player
 
 A React-based translator application using API integration.
 
-**Tech:** React.js • JavaScript • REST API
+**Tech:** React.js • JavaScript • API
 
 ### 🌐 Personal Portfolio
 
