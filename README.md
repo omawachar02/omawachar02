@@ -67,13 +67,27 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 
 ### 💳 01Slab (project for virtual internship)
 
-A responsive payment website frontend built with modern web technologies.
+A responsive website frontend built with modern web technologies.
+Practicing react routing and modern frontend tasks.
+A React-based translator application using API integration.
 
 **Tech:** React.js • JavaScript • HTML • CSS
 
 ### 🌎 Music Player
+.A modern Spotify-inspired music player built with React.js, featuring a responsive interface and smooth music playback experience.
 
-A React-based translator application using API integration.
+Features:
+
+🎵 Music playback
+🔍 Search songs
+❤️ Favorites
+🕘 Recently Played
+📂 Playlists
+💾 LocalStorage support
+📱 Responsive design
+
+Tech: React.js • JavaScript • CSS • API • LocalStorage • Vite
+.This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 **Tech:** React.js • JavaScript • API
 
