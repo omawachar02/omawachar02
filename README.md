@@ -22,7 +22,7 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 🎓 Currently pursuing **B.Tech in Artificial Intelligence**
 💻 Building projects with **React.js & JavaScript**
 🐍 Learning **Python Full Stack Development**
-🤖 Interested in **AI, Web Development & Backend Development**
+🤖 Interested in **AI, Frontend Web Development & Backend Development**
 
 ---
 
@@ -30,9 +30,9 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 
 * 🎓 B.Tech – Artificial Intelligence
 * 💡 Interested in Frontend & Full Stack Development
-* ⚛️ Currently working with React.js
-* 🐍 Learning Python, Flask & Backend Development
-* 🔌 Experienced with REST API integration
+* ⚛️ Currently working with React.js and Next.js
+* 🐍 Learning Python & Backend Development
+* 🔌 Experienced with API integration
 * 🗄️ Learning and working with SQL
 * 🌱 Always learning and building new projects
 * 🎯 Goal: Become a skilled **Python Full Stack Developer**
@@ -45,7 +45,6 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### 🎨 Frontend
 
@@ -53,12 +52,6 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 
 ### 🔧 Tools
 
@@ -70,7 +63,7 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 
 ## 🚀 Featured Projects
 
-### 💳 ChingPay
+### 💳 01Slab (project for virtual internship)
 
 A responsive payment website frontend built with modern web technologies.
 
