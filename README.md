@@ -45,6 +45,7 @@ I'm a passionate developer from **Maharashtra, India**, interested in building m
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend
 
